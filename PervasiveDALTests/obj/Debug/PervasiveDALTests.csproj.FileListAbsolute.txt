@@ -1,0 +1,9 @@
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\bin\Debug\PervasiveDALTests.dll
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\bin\Debug\PervasiveDALTests.pdb
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\bin\Debug\PervasiveDAL.dll
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\bin\Debug\Pervasive.Data.SqlClient.dll
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\bin\Debug\PervasiveDAL.pdb
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\bin\Debug\Pervasive.Data.SqlClient.xml
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\obj\Debug\PervasiveDALTests.csprojResolveAssemblyReference.cache
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\obj\Debug\PervasiveDALTests.dll
+I:\Git\postmastergeneral\WindowsFormsApplication1\PervasiveDALTests\obj\Debug\PervasiveDALTests.pdb
